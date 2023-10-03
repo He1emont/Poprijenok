@@ -1,0 +1,54 @@
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\bin\Debug\Poprijenok.Antuh.exe.config
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\bin\Debug\Poprijenok.Antuh.exe
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\bin\Debug\Poprijenok.Antuh.pdb
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\bin\Debug\EntityFramework.dll
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\bin\Debug\EntityFramework.xml
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\bin\Debug\ru\EntityFramework.resources.dll
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok. Antuh.csproj.AssemblyReference.cache
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok. Antuh.csproj.SuggestedBindingRedirects.cache
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\MainWindow.g.cs
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\PageOne.g.cs
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\App.g.cs
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok.Antuh_Content.g.cs
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok.Antuh_MarkupCompile.cache
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok.Antuh_MarkupCompile.lref
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\MainWindow.baml
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\PageOne.baml
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok.Antuh.g.resources
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok.Antuh.Properties.Resources.resources
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok. Antuh.csproj.GenerateResource.cache
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok. Antuh.csproj.CoreCompileInputs.cache
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok. Antuh.csproj.CopyComplete
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok.Antuh.exe
+D:\Programmirovanie\Program\Poprijenok. Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok.Antuh.pdb
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\bin\Debug\Poprijenok.Antuh.exe.config
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\bin\Debug\Poprijenok.Antuh.exe
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\bin\Debug\Poprijenok.Antuh.pdb
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\bin\Debug\EntityFramework.dll
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\bin\Debug\EntityFramework.xml
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\bin\Debug\ru\EntityFramework.resources.dll
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok. Antuh.csproj.AssemblyReference.cache
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok. Antuh.csproj.SuggestedBindingRedirects.cache
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\App.g.cs
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok.Antuh_Content.g.cs
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok.Antuh_MarkupCompile.cache
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok.Antuh_MarkupCompile.lref
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok.Antuh.g.resources
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok.Antuh.Properties.Resources.resources
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok. Antuh.csproj.GenerateResource.cache
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok. Antuh.csproj.CoreCompileInputs.cache
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok. Antuh.csproj.CopyComplete
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok.Antuh.exe
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Poprijenok.Antuh.pdb
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Window\MainWindow.g.cs
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Pages\PageOne.g.cs
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Pages\PageTwo.g.cs
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Window\WindowModal.g.cs
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Window\MainWindow.baml
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Pages\PageOne.baml
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Pages\PageTwo.baml
+D:\Programmirovanie\Program\Poprijenok-Antuh\Poprijenok. Antuh\obj\Debug\Window\WindowModal.baml
